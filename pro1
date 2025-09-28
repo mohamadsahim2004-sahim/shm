@@ -48,4 +48,4 @@ int main() {
          scanf("%d",&num1);
          printf("enter your number2:");
          scanf("%d",&num2);
-    }
+    } hi iam sahim
